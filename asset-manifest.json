@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/carousel-in-react/static/css/main.5ae1f789.css",
+    "main.js": "/carousel-in-react/static/js/main.56d85ff7.js",
+    "static/js/787.a5a00b74.chunk.js": "/carousel-in-react/static/js/787.a5a00b74.chunk.js",
+    "static/media/events-1.jpg": "/carousel-in-react/static/media/events-1.75532e1d6a49c0b55dfd.jpg",
+    "static/media/gallery-1.jpg": "/carousel-in-react/static/media/gallery-1.598b14d604e8d21e0e4e.jpg",
+    "static/media/g-4.jpg": "/carousel-in-react/static/media/g-4.ce7f3920e937f2c41ec6.jpg",
+    "static/media/g-9.jpg": "/carousel-in-react/static/media/g-9.c00d535165bc3b525f2d.jpg",
+    "static/media/gallery-2.jpg": "/carousel-in-react/static/media/gallery-2.ddb0b132f388e7496599.jpg",
+    "static/media/g-3.jpg": "/carousel-in-react/static/media/g-3.b60d8a88c839c04cd5ac.jpg",
+    "static/media/g-6.jpg": "/carousel-in-react/static/media/g-6.259c57740bf0b7fdf21f.jpg",
+    "static/media/g-7.jpg": "/carousel-in-react/static/media/g-7.7e830972d2175779fed7.jpg",
+    "static/media/slick.svg": "/carousel-in-react/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/carousel-in-react/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/carousel-in-react/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/carousel-in-react/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/carousel-in-react/index.html",
+    "main.5ae1f789.css.map": "/carousel-in-react/static/css/main.5ae1f789.css.map",
+    "main.56d85ff7.js.map": "/carousel-in-react/static/js/main.56d85ff7.js.map",
+    "787.a5a00b74.chunk.js.map": "/carousel-in-react/static/js/787.a5a00b74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ae1f789.css",
+    "static/js/main.56d85ff7.js"
+  ]
+}
